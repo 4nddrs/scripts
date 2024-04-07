@@ -3,7 +3,7 @@
 import sys
 import re
 import requests
-from colorama import Fore, Style
+from colorama import Fore, Style #pip install colorama
 import sys
 
 def validar_ip(ip):
