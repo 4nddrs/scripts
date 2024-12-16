@@ -7,7 +7,7 @@ Bienvenido a mi colección de scripts de Python diseñados para automatizar dive
 ## 📑 Índice
 
 1. [Características](#-características)
-2. [Como Funciona](#-como-funciona)
+2. [Cómo Funciona](#-cómo-funciona)
    - [Crea un Script de Python](#1️⃣-crea-un-script-de-python)
    - [Genera un Archivo `.bat`](#2️⃣-genera-un-archivo-bat)
    - [Añade el Archivo `.bat` a una Variable del Sistema](#3️⃣-añade-el-archivo-bat-a-una-variable-del-sistema)
@@ -27,7 +27,7 @@ Bienvenido a mi colección de scripts de Python diseñados para automatizar dive
 
 ---
 
-## 🛠️ Como Funciona
+## 🛠️ Cómo Funciona
 
 > **TIP:** Sigue estos pasos para integrar los scripts de manera eficiente en tu sistema. 🌟
 
