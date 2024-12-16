@@ -4,6 +4,22 @@ Bienvenido a mi colección de scripts de Python diseñados para automatizar dive
 
 ---
 
+## 📑 Índice
+
+1. [Características](#-características)
+2. [Como Funciona](#-como-funciona)
+   - [Crea un Script de Python](#1️⃣-crea-un-script-de-python)
+   - [Genera un Archivo `.bat`](#2️⃣-genera-un-archivo-bat)
+   - [Añade el Archivo `.bat` a una Variable del Sistema](#3️⃣-añade-el-archivo-bat-a-una-variable-del-sistema)
+   - [Invoca desde la Terminal](#4️⃣-invoca-desde-la-terminal)
+3. [Estructura del Repositorio](#-estructura-del-repositorio)
+4. [Ejemplos](#-ejemplos)
+   - [Ejemplo: Automatizar una Tarea de Limpieza de Archivos 🗑️](#ejemplo-automatizar-una-tarea-de-limpieza-de-archivos-)
+5. [Añadir Tus Propios Scripts](#-añadir-tus-propios-scripts)
+6. [Contribuir](#-contribuir)
+
+---
+
 ## ✨ Características
 - ⚡ **Automatiza tareas repetitivas** con Python.
 - 🖥️ **Invocación rápida** desde la terminal usando comandos personalizados.
@@ -11,7 +27,7 @@ Bienvenido a mi colección de scripts de Python diseñados para automatizar dive
 
 ---
 
-## 🛠️ Cómo Funciona
+## 🛠️ Como Funciona
 
 > **TIP:** Sigue estos pasos para integrar los scripts de manera eficiente en tu sistema. 🌟
 
